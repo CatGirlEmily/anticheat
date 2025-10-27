@@ -1,0 +1,80 @@
+
+[general]
+
+	[general.general]
+		auto_login = true
+		password = "acmcpl"
+
+	[general.chat]
+		hide_useless_messages = true
+
+	[general.greetings]
+		"➤_force_lava_bounce" = 0
+
+	[general.movement]
+		i_hate_carpets = false
+		speed_changer = true
+		"➤_force_lava_bounce" = 0
+		"➤_custom_speed" = 492.0
+		no_knockback = true
+		no_fall_damage = true
+
+[f7]
+
+	[f7.general]
+		vertical_jerry = true
+		positional_messages = true
+		vertical_clip = true
+		"➤_render_through_walls" = false
+		"➤_vertical_clip_esp" = true
+		p3_ghost_blocks = true
+		devices_ghost_blocks = true
+		split_timers = true
+
+	[f7.p3]
+		"➤_render_through_wallz" = true
+		core_clip = true
+		auto_dev_levers = false
+		ghost_blocks = true
+		"➤_ee_clip_esp" = true
+		early_entry = true
+
+	[f7.devices]
+		levers = true
+
+[p3]
+
+	[p3.general]
+		early_entry = true
+
+[dungeons]
+
+	[dungeons.general]
+		wither_key_tp = true
+
+	[dungeons.puzzles]
+		trap_skip = true
+
+	[dungeons.secrets]
+		ghost_pickaxe = true
+		highlight_items = true
+
+[mining]
+
+	[mining.general]
+		i_hate_carpets = false
+		no_delay = false
+
+[render]
+
+	[render.general]
+		hide_coins = true
+
+	[render.other]
+		render_no_one = false
+
+	[render.dungeons]
+		hide_superboom_tnt = true
+		hide_mob_loot = true
+		hide_worthless_items = true
+
